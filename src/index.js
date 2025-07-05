@@ -1,1 +1,2 @@
-console.log('OTS App Loaded');
+// Entry point for React app
+console.log('App Loaded')
